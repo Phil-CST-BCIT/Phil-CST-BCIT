@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Phil
+- 👀 I’m interested in distributed systems
+- 🌱 I’m currently learning micro-service using Golang and the open source project Teammates
